@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url('/assets/fonts/montserrat-v.woff2') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap; /* Tells the browser to show fallback text while loading */
+  }
+
+  @font-face {
+    font-family: 'opensans';
+    src: url('/assets/fonts/opensans-v.woff2') format('woff2');
+    font-weight: 300 800;
+    font-style: normal;
+    font-display: swap; /* Tells the browser to show fallback text while loading */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$font-primary: 'montserrat', Arial,'sans serif';
+$font-secondary: 'opensans', Arial,'sans serif';
